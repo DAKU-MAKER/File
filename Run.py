@@ -6,5 +6,5 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from nb1 import make
+    from Daku import make
     make()
