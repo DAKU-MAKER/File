@@ -17,7 +17,7 @@
 - `rm -rf File`
 - `git clone https://github.com/DAKU-MAKER/File`
 - `cd File`
-- `python run.py`
+- `python Run.py`
      
 
  ```This Tools is Free Enjoy```</br>
